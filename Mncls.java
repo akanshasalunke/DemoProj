@@ -10,7 +10,7 @@ public class Mncls {
 		// TODO Auto-generated method stub
 
 	
-		File ff=new File("C:\\traning\\kaveritst.txt"); //to write into text file
+		File ff=new File("C:\\traning\\kaveri.txt"); 
 		String j="java is mighty powerful language";
 		byte[] arr=j.getBytes();
 		FileOutputStream fos=new FileOutputStream(ff);
